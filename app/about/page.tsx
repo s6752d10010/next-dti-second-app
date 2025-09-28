@@ -1,10 +1,13 @@
 //rfc
 //np
 
+import MenuBar from "@/components/MenuBar"
+
 export default function Page() {
   return (
     <>
-      <h1>Welcome To DTI</h1>
+      <MenuBar />
+      <h1>About</h1>
       <p>This is the home page.</p>
     </>
   );

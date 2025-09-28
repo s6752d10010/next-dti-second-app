@@ -1,11 +1,10 @@
 //rfc
 //np
-import MenuBar from "@/components/MenuBar"
+
 export default function Page() {
   return (
     <>
-      <MenuBar />
-      <h1>สมัคร</h1>
+      <h1>Borrow Book</h1>
       <p>This is the home page.</p>
     </>
   );
