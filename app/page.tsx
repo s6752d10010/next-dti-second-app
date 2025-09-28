@@ -7,7 +7,7 @@ export default function Page() {
       <MenuBar/>
       <h1 className="text-center">Welcome To DTI</h1>
       <h1 className="text-center">Werayutt Mala</h1>
-      <p className="text-center">This is the home page.</p>
+      
     </>
   );
 }

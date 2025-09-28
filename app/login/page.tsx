@@ -5,8 +5,7 @@ export default function Page() {
   return (
     <>
       <MenuBar />
-      <h1>เข้าสู่ระบบ</h1>
-      <p>This is the home page.</p>
+      <h1 className="text-center">เข้าสู่ระบบ</h1>
     </>
   );
 }

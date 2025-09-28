@@ -5,8 +5,7 @@ export default function Page() {
   return (
     <>
       <MenuBar />
-      <h1>สมัคร</h1>
-      <p>This is the home page.</p>
+      <h1 className="text-center">สมัคร</h1>
     </>
   );
 }

@@ -7,8 +7,7 @@ export default function Page() {
     <>
       <MenuBar/>
       <MenuMajor />
-      <h1>Welcome To DM</h1>
-      <p>This is the home page.</p>
+      <h1 className="text-center">Welcome To DM</h1>
     </>
   );
 }
